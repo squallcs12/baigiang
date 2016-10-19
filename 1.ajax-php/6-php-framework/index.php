@@ -1,0 +1,4 @@
+<a href="https://codex.wordpress.org/Function_Reference/wp_send_json">https://codex.wordpress.org/Function_Reference/wp_send_json</a>
+<a href="https://framework.zend.com/manual/1.12/en/zend.controller.actionhelpers.html">https://framework.zend.com/manual/1.12/en/zend.controller.actionhelpers.html</a>
+<a href="https://laravel.com/docs/5.3/responses#json-responses">https://laravel.com/docs/5.3/responses#json-responses</a>
+<a href="http://symfony.com/doc/current/components/http_foundation.html#creating-a-json-response">http://symfony.com/doc/current/components/http_foundation.html#creating-a-json-response</a> 
